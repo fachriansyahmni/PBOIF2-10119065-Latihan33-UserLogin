@@ -1,6 +1,13 @@
 package pboif2.pkg10119065.latihan33.userlogin;
 
-
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Program ini menampilkan program login user
+                          dengan objek
+ */
 public class User {
 
     final private String userName = "RizkiAdam";
